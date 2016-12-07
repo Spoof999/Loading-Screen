@@ -8,7 +8,7 @@
 
 $license = 'POYTF0L5UYD9S6P0OP19YUKYKU3PV0ZL'; // DO NOT CHANGE
 
-$apikey = "APIKEY"; // Steam API key, get one at http://steamcommunity.com/dev/apikey
+$apikey = "65D0DD2C79C21B36284A68AA9FD26F72"; // Steam API key, get one at http://steamcommunity.com/dev/apikey
 
 $automatic_name = false; // Should the name of the server be used as the server name? <true or false>
 $automatic_map = true; // Should the name of the map be used as the sub title? <true or false>
