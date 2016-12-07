@@ -11,11 +11,11 @@ $license = 'POYTF0L5UYD9S6P0OP19YUKYKU3PV0ZL'; // DO NOT CHANGE
 $apikey = "APIKEY"; // Steam API key, get one at http://steamcommunity.com/dev/apikey
 
 $automatic_name = false; // Should the name of the server be used as the server name? <true or false>
-$automatic_map = false; // Should the name of the map be used as the sub title? <true or false>
+$automatic_map = true; // Should the name of the map be used as the sub title? <true or false>
 $automatic_gm = false; // Should the name of the gamemode be used as the sub title? (if $automatic_map is true, then this will get ignored) <true or false>
 
-$server_name = "Delta Gaming";
-$sub_title = "Serious MilitaryRP";
+$server_name = "Delta Gaming | Serious MilitaryRP";
+$sub_title = "";
 
 $server_rules = "Server rules"; // The text above the rules
 $loading = "Loading"; // The text in the top right corner
