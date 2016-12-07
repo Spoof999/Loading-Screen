@@ -15,20 +15,20 @@ $automatic_map = false; // Should the name of the map be used as the sub title? 
 $automatic_gm = false; // Should the name of the gamemode be used as the sub title? (if $automatic_map is true, then this will get ignored) <true or false>
 
 $server_name = "Delta Gaming";
-$sub_title = "rp_predator_v3_016
+$sub_title = "Serious MilitaryRP";
 
 $server_rules = "Server rules"; // The text above the rules
 $loading = "Loading"; // The text in the top right corner
 
 $rules = [
-	'Do not prop kill',
-	'Do not rdm',
-	'Do not cdm',
-	'do not insult admins',
-	'ekstra long rule to make sure double lines works',
+	'When you join, wait in spawn to be trained.',
+	'Do not rdm or cdm',
+	'Do not fail rp',
+	'Respect your commanders',
+	'Read the rules on the website for more details.',
 ];
 
-$welcome_text = "Welcome to our server! We hope you enjoy your stay."; // Text in the bottom right corner
+$welcome_text = "Welcome to Delta Gaming"; // Text in the bottom right corner
 
 
 // Custimization
@@ -36,7 +36,7 @@ $background = "img/background.jpg"; // The background of the site, can also be a
 
 $video = "img/background.webm"; // The video background of the site, can also be an url (NEEDS TO BE webm) (leave blank for none)
 
-$music = "Nzex3HLnIME"; // The last part of an YouTube video, example with https://www.youtube.com/watch?v=Nzex3HLnIME its Nzex3HLnIME (leave blank for none)
+$music = "oGL0xmMBob4"; // The last part of an YouTube video, example with https://www.youtube.com/watch?v=Nzex3HLnIME its Nzex3HLnIME (leave blank for none)
 
 $left_image = "img/placeholder-left.png"; // The background image of the left grid box, can also be an url (rules box)
 $right_image = "img/placeholder-right.png"; // The background image of the right grid box, can also be an url (blank box)
